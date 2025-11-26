@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I’m Yousef El Trach, and I'm a full-stack developer passionate about building clean, efficient, and user-friendly web applications.<br><br>💻 I love turning ideas into working products. I'm always exploring new tools, sharpening my skills with personal projects, and deepening my understanding of best practices.<br><br>🔨 Constantly learning, always building — I’m focused on becoming a well-rounded, high-impact developer.<br><br>🚀 Let’s build something awesome!
+👋 Hey! I’m Yousef Eltrach, and I'm a full-stack developer passionate about building clean, efficient, and user-friendly web applications.<br><br>💻 I love turning ideas into working products. I'm always exploring new tools, sharpening my skills with personal projects, and deepening my understanding of best practices.<br><br>🔨 Constantly learning, always building — I’m focused on becoming a well-rounded, high-impact developer.<br><br>🚀 Let’s build something awesome!
 
 
 ## 🌐 Socials:
